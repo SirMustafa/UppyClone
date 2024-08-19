@@ -1,0 +1,34 @@
+{
+    "name": "UserActivitys",
+    "maps": [
+        {
+            "name": "LoginScreen",
+            "id": "004508c8-8121-4dfb-bec8-f2acd34918e5",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "ef797934-a6a4-440f-a67b-30e173ece6ad",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "b9469f20-1b03-498c-9497-83cf4a496d53",
+                    "path": "<Touchscreen>/primaryTouch/tap",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
